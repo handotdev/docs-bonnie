@@ -1,0 +1,50 @@
+{
+  "projectType": "general",
+  "projectName": "Han Wang",
+  "projectDescription": "Personal landing page for Han Wang, co-founder & CEO of Mintlify, builder of documentation experiences for developers and AI.",
+  "theme": "willow",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "navigation": {
+    "groups": [
+      {
+        "group": "About",
+        "pages": [
+          "index",
+          "about/story",
+          "about/mintlify"
+        ]
+      },
+      {
+        "group": "Work",
+        "pages": [
+          "work/experience",
+          "work/projects"
+        ]
+      },
+      {
+        "group": "Writing",
+        "pages": [
+          "writing/index"
+        ]
+      },
+      {
+        "group": "Connect",
+        "pages": [
+          "connect/index"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Co-founder & CEO of Mintlify",
+    "Building documentation infrastructure for humans and AI agents",
+    "Mintlify powers docs for 20,000+ teams including Anthropic, Microsoft, and Amazon",
+    "Launched Mintlify in 2022 during senior year at Cornell (YC W22)",
+    "Former engineer at Meta (Facebook)",
+    "Cornell University BS in Information Science",
+    "Speaker on AI agents and the future of developer tools"
+  ],
+  "publicApiSurface": []
+}

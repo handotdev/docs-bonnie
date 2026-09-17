@@ -1,0 +1,65 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "willow",
+  "name": "Han Wang",
+  "colors": {
+    "primary": "#ef7025",
+    "light": "#eec9bc",
+    "dark": "#4fa1ab"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "han.dev",
+        "href": "https://han.dev"
+      }
+    ],
+    "primary": {
+      "type": "github",
+      "href": "https://github.com/han-wang"
+    }
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "About",
+        "pages": [
+          "index",
+          "about/story",
+          "about/mintlify"
+        ]
+      },
+      {
+        "group": "Work",
+        "pages": [
+          "work/experience",
+          "work/projects"
+        ]
+      },
+      {
+        "group": "Writing",
+        "pages": [
+          "writing/index"
+        ]
+      },
+      {
+        "group": "Connect",
+        "pages": [
+          "connect/index"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/handotdev",
+      "github": "https://github.com/han-wang",
+      "linkedin": "https://linkedin.com/in/handotdev"
+    }
+  }
+}
